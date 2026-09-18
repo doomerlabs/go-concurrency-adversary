@@ -1,4 +1,4 @@
-# Official Go adversary catalog plan
+# Official Go doomer catalog plan
 
 ## Product principles
 
