@@ -1,4 +1,4 @@
-name: adversarylabs/go/concurrency
+name: go/concurrency
 version: 0.0.28
 description: Reviews Go concurrency lifecycle, cancellation, synchronization, and channel ownership.
 
